@@ -1,1 +1,1 @@
-# LandingPage
+This is my Odin project landing page, this is an introduction to flexboxes
